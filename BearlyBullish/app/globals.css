@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Libre+Franklin:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root { --paper:#f5f3ee; --ink:#1c1b19; --muted:#68655f; --rule:#d5d0c7; --green:#27714d; --up:#1d6b4a; --down:#a43c35; }
+* { box-sizing:border-box; }
+html { background:var(--paper); }
+body { margin:0; color:var(--ink); background:var(--paper); font-family:'Libre Franklin',Arial,sans-serif; }
+a { color:inherit; text-decoration:none; }
+::selection { background:#d8e4d8; }
+.font-editorial { font-family:'Libre Baskerville',Georgia,serif; }
+.font-nav { font-family:"Engravers' Old English BT", "Old English Text MT", "UnifrakturCook", cursive; font-weight:400; }
+.paper-rule { border-color:var(--rule); }
+.editorial-label { color:#55514b; font-size:13px; font-weight:700; letter-spacing:.13em; text-transform:uppercase; }
+.editorial-label.learn { color:#386b8d; }
+.category-label { color:#55514b; font-family:"Engravers' Old English BT", "Old English Text MT", "UnifrakturCook", cursive; font-size:15px; font-weight:400; letter-spacing:.02em; }
+.category-label.market { color:#27714d; }.category-label.learn { color:#386b8d; }.category-label.research { color:#6b557e; }.category-label.businesses { color:#87651d; }.category-label.fintech { color:#333943; }
+.prose-copy p { margin:0 0 1.55rem; font-family:'Libre Baskerville',Georgia,serif; font-size:1.05rem; line-height:1.9; color:#302e2a; }
+.prose-copy p:first-child { font-size:1.18rem; line-height:1.8; color:var(--ink); }
+.focus-ring:focus-visible { outline:2px solid var(--green); outline-offset:3px; }
+button,input { font:inherit; }

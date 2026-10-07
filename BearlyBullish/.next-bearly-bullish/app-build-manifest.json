@@ -1,0 +1,68 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-d757b501b8c835e1.js",
+      "static/chunks/fd9d1056-5ccc0d41b6df7be5.js",
+      "static/chunks/117-05cae10bd5c383d7.js",
+      "static/chunks/main-app-ce01a0832bd8b54c.js",
+      "static/chunks/app/_not-found/page-ef9e0194e969f613.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-d757b501b8c835e1.js",
+      "static/chunks/fd9d1056-5ccc0d41b6df7be5.js",
+      "static/chunks/117-05cae10bd5c383d7.js",
+      "static/chunks/main-app-ce01a0832bd8b54c.js",
+      "static/css/24f613bb69ee3971.css",
+      "static/chunks/972-4f0d3489afae971f.js",
+      "static/chunks/app/layout-34128ba6b7fc756c.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-d757b501b8c835e1.js",
+      "static/chunks/fd9d1056-5ccc0d41b6df7be5.js",
+      "static/chunks/117-05cae10bd5c383d7.js",
+      "static/chunks/main-app-ce01a0832bd8b54c.js",
+      "static/chunks/972-4f0d3489afae971f.js",
+      "static/chunks/app/page-d9e35b558b3a3605.js"
+    ],
+    "/learn/basic-vocabulary/page": [
+      "static/chunks/webpack-d757b501b8c835e1.js",
+      "static/chunks/fd9d1056-5ccc0d41b6df7be5.js",
+      "static/chunks/117-05cae10bd5c383d7.js",
+      "static/chunks/main-app-ce01a0832bd8b54c.js",
+      "static/chunks/972-4f0d3489afae971f.js",
+      "static/chunks/app/learn/basic-vocabulary/page-8d1ad9da2d3b688a.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-d757b501b8c835e1.js",
+      "static/chunks/fd9d1056-5ccc0d41b6df7be5.js",
+      "static/chunks/117-05cae10bd5c383d7.js",
+      "static/chunks/main-app-ce01a0832bd8b54c.js",
+      "static/chunks/app/about/page-57b9221c8d34b026.js"
+    ],
+    "/search/page": [
+      "static/chunks/webpack-d757b501b8c835e1.js",
+      "static/chunks/fd9d1056-5ccc0d41b6df7be5.js",
+      "static/chunks/117-05cae10bd5c383d7.js",
+      "static/chunks/main-app-ce01a0832bd8b54c.js",
+      "static/chunks/972-4f0d3489afae971f.js",
+      "static/chunks/app/search/page-05e9a2b2e908e36a.js"
+    ],
+    "/[category]/page": [
+      "static/chunks/webpack-d757b501b8c835e1.js",
+      "static/chunks/fd9d1056-5ccc0d41b6df7be5.js",
+      "static/chunks/117-05cae10bd5c383d7.js",
+      "static/chunks/main-app-ce01a0832bd8b54c.js",
+      "static/chunks/972-4f0d3489afae971f.js",
+      "static/chunks/594-f93d8e2692421ff9.js",
+      "static/chunks/app/[category]/page-2a37b03596d64742.js"
+    ],
+    "/article/[slug]/page": [
+      "static/chunks/webpack-d757b501b8c835e1.js",
+      "static/chunks/fd9d1056-5ccc0d41b6df7be5.js",
+      "static/chunks/117-05cae10bd5c383d7.js",
+      "static/chunks/main-app-ce01a0832bd8b54c.js",
+      "static/chunks/972-4f0d3489afae971f.js",
+      "static/chunks/app/article/[slug]/page-94481b3355fb75a8.js"
+    ]
+  }
+}
