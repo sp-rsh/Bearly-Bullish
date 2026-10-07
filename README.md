@@ -1,1 +1,0 @@
-# Bearly-Bullish
